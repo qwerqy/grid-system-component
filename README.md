@@ -1,3 +1,5 @@
+<img width="811" alt="Screenshot 2023-06-09 at 12 36 54 AM" src="https://github.com/qwerqy/grid-system-component/assets/5802740/60145904-a5db-4b3f-8f4c-718d91160a70">
+
 # Grid System Component
 
 A nestable Grid System component built in React.
@@ -12,6 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
